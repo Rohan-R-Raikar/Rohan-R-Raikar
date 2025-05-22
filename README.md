@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif" alt="Welcome GIF" />
+</p>
 <h1 align="center">Hi 👋, I'm Rohan Raikar</h1>
 <h3 align="center">🚀 Full Stack .NET Developer | Aspiring Data & Cloud Engineer | Passionate Learner</h3>
 
