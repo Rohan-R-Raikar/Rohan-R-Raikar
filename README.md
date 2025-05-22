@@ -1,44 +1,80 @@
-# 👋 Hi, I'm Rohan Raikar
+<h1 align="center">Hi 👋, I'm Rohan Raikar</h1>
+<h3 align="center">🚀 Full Stack .NET Developer | Aspiring Data & Cloud Engineer | Passionate Learner</h3>
 
-🚀 Full Stack .NET Developer | Aspiring Data & Cloud Engineer | Passionate Learner
-
-I'm a developer who enjoys building **enterprise-grade web applications** and exploring the world of **cloud platforms, data pipelines, and automation workflows**.
-
----
-
-## 🔧 Technologies & Tools I Work With
-
-- **Languages & Frameworks:** C#, .NET Core, Blazor, JavaScript, Python
-- **Frontend:** HTML, CSS
-- **Databases:** SQL Server
-- **Cloud & Data:** Microsoft Azure, Azure Data Factory, Power BI
-- **Other Tools:** Git, Jira, SSMS, SourceTree
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
 
 ---
 
-## 🧠 Currently Learning
+### 🧑‍💻 About Me
 
-- Azure Data Engineering Concepts  
-- CI/CD with GitHub Actions & Azure Pipelines  
-
----
-
-## 📂 Projects & Contributions
-
-- **RCA to PDF Converter** – Built PDF export module for Root Cause Analysis reports.
-- **HomeHuntSangli** – Real estate platform with custom map sharing features.
-- **png1832** – Debugging and minor fixes on existing codebase.
-- **RutuALL** – Ayurvedic inventory system (paused project, early contributor).
-
-📌 _Project code is in progress of being cleaned and prepared for GitHub — stay tuned!_
+🔹 Currently working on enterprise-grade applications using **Blazor**, **.NET Core**, and **SQL Server**  
+🔹 Exploring **Azure Data Factory**, **Power BI**, and **CI/CD pipelines**  
+🔹 Passionate about building maintainable, scalable, and cloud-ready solutions  
+🔹 Collaborating within Agile environments and thriving in backend-heavy roles  
 
 ---
 
-## 📫 Let's Connect
+### 🛠️ Tech Stack
 
-- [LinkedIn](https://www.linkedin.com/in/rohan-raikar/)
-- Email: rohanraikar7993@gmail.com
+**Languages & Frameworks:**  
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" />
+
+**Databases:**  
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+
+**Cloud & Data Tools:**  
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=azuredatafactory&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+
+**Others:**  
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/SSMS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
 
 ---
 
-> “Strive for progress, not perfection.”
+### 🧪 Current Projects & Contributions
+
+- 🔹 **RCA to PDF Converter** – Generated formatted PDF reports for Root Cause Analysis modules  
+- 🔹 **HomeHuntSangli** – Real estate platform with Google Maps integration for agents  
+- 🔹 **png1832** – Minor bug fixing and UI corrections in production systems  
+- 🔹 **RutuALL** – Ayurvedic inventory management system (paused, early-stage contribution)
+
+> ✨ Personal repositories coming soon! I’m preparing clean, public versions of enterprise logic and patterns to showcase.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohanraikar&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanraikar&theme=tokyonight" height="160" />
+</p>
+
+---
+
+### 📬 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rohan-raikar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rohanraikar7993@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+> “Strive for progress, not perfection.” – 💡
+
