@@ -42,25 +42,12 @@
 <img src="https://img.shields.io/badge/SSMS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
 
 ---
-
 ### 🧪 Current Projects & Contributions
 
 - 🔹 **RCA to PDF Converter** – Generated formatted PDF reports for Root Cause Analysis modules  
 - 🔹 **HomeHuntSangli** – Real estate platform with Google Maps integration for agents  
 - 🔹 **png1832** – Minor bug fixing and UI corrections in production systems  
 - 🔹 **RutuALL** – Ayurvedic inventory management system (paused, early-stage contribution)
-
-> ✨ Personal repositories coming soon! I’m preparing clean, public versions of enterprise logic and patterns to showcase.
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohanraikar&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanraikar&theme=tokyonight" height="160" />
-</p>
-
 ---
 
 ### 📬 Let's Connect
@@ -73,8 +60,4 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
 ---
-
-> “Strive for progress, not perfection.” – 💡
-
