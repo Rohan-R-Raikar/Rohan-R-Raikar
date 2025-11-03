@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan Raikar</h1>
-<h3 align="center">🚀 Full Stack .NET Developer | Aspiring Data & Cloud Engineer | Passionate Learner</h3>
+<h3 align="center">🚀 Full Stack .NET Developer | Passionate Learner</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
