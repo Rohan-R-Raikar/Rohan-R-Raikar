@@ -44,10 +44,10 @@
 ---
 ### 🧪 Current Projects & Contributions
 
-- 🔹 **RCA to PDF Converter** – Generated formatted PDF reports for Root Cause Analysis modules  
-- 🔹 **HomeHuntSangli** – Real estate platform with Google Maps integration for agents  
-- 🔹 **png1832** – Minor bug fixing and UI corrections in production systems  
-- 🔹 **RutuALL** – Ayurvedic inventory management system (paused, early-stage contribution)
+🔹 **RCA to PDF Converter** – Generated formatted PDF reports for Root Cause Analysis modules  
+🔹 **HomeHuntSangli** – Real estate platform with Google Maps integration for agents  
+🔹 **png1832** – Minor bug fixing and UI corrections in production systems  
+🔹 **RutuALL** – Ayurvedic inventory management system (paused, early-stage contribution)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rohan-raikar/" target="_blank">
