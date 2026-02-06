@@ -46,22 +46,22 @@
 - **[DotNet_Playground](https://github.com/Rohan-R-Raikar/DotNet_Playground)** – Miscellaneous .NET experiments and small projects  
 
 #### Encryption & Security
-- **[Encryption_and_Security](https://github.com/Rohan-R-Raikar/Encryption_and_Security)** – Encryption demos, JWT, HMAC, AES, QR code security, API security  
+- **[Encryption_and_Security](https://github.com/Rohan-R-Raikar/DotNet_Encryption_and_Security)** – Encryption demos, JWT, HMAC, AES, QR code security, API security  
 
 #### Real-Time & UI
-- **[RealTime_Chat_and_Theme](https://github.com/Rohan-R-Raikar/RealTime_Chat_and_Theme)** – SignalR chat apps, SmartUrbanSuite, AdminLTE, P2P chat demos  
+- **[RealTime_Chat_and_Theme](https://github.com/Rohan-R-Raikar/DotNet_RealTime_Chat_and_Theme)** – SignalR chat apps, SmartUrbanSuite, AdminLTE, P2P chat demos  
 
 #### State Management
-- **[State_Management](https://github.com/Rohan-R-Raikar/State_Management)** – Shopping cart, multi-DB scenarios, Live real-time state apps  
+- **[State_Management](https://github.com/Rohan-R-Raikar/DotNet_State_Management)** – Shopping cart, multi-DB scenarios, Live real-time state apps  
 
 #### Microservices
-- **[Microservices](https://github.com/Rohan-R-Raikar/Microservices)** – Microservices learning and shopping cart microservices  
+- **[Microservices](https://github.com/Rohan-R-Raikar/DotNet_Microservices)** – Microservices learning and shopping cart microservices  
 
 #### Docker, gRPC, AI/ML
-- **[Docker_Grpc_AI_ML_Projects](https://github.com/Rohan-R-Raikar/Docker_Grpc_AI_ML_Projects)** – Dockerized apps, gRPC experiments, AI/ML projects  
+- **[Docker_Grpc_AI_ML_Projects](https://github.com/Rohan-R-Raikar/DotNet_Docker_Grpc_AI_ML_Projects)** – Dockerized apps, gRPC experiments, AI/ML projects  
 
 #### Localization & Hangfire Cron Jobs
-- **[Localization_Hangfire_Cron_Jobs](https://github.com/Rohan-R-Raikar/Localization_Hangfire_Cron_Jobs)** – Localization demos and Hangfire background jobs  
+- **[Localization_Hangfire_Cron_Jobs](https://github.com/Rohan-R-Raikar/DotNet_Localization_Hangfire_Cron_Jobs)** – Localization demos and Hangfire background jobs  
 
 #### React Native
 - **[React_Native_Projects](https://github.com/Rohan-R-Raikar/React_Native_Projects)** – Learning React Native with multiple experimental apps  
