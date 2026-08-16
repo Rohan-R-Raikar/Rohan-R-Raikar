@@ -47,31 +47,6 @@ An evolving backend engineering project exploring production-oriented architectu
 
 ---
 
-## Engineering Focus
-
-* Backend architecture
-* REST API design
-* Database-driven applications
-* Real-time communication
-* Performance optimization
-* Authentication and security
-* Clean and maintainable code
-* Production debugging
-
----
-
-## Currently Exploring
-
-* Advanced .NET architecture
-* Clean Architecture
-* Distributed systems
-* Background processing
-* Docker
-* Azure
-* AI integration with .NET
-
----
-
 ## GitHub Activity
 
 [![Rohan's GitHub activity](https://github-readme-activity-graph.vercel.app/graph?username=Rohan-R-Raikar\&theme=github-compact\&hide_border=true\&area=true)](https://github.com/Rohan-R-Raikar)
