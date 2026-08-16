@@ -76,8 +76,6 @@ An evolving backend engineering project exploring production-oriented architectu
 
 [![Rohan's GitHub activity](https://github-readme-activity-graph.vercel.app/graph?username=Rohan-R-Raikar\&theme=github-compact\&hide_border=true\&area=true)](https://github.com/Rohan-R-Raikar)
 
-[![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohan-R-Raikar\&show_icons=true\&hide_border=true\&theme=transparent\&rank_icon=github)](https://github.com/Rohan-R-Raikar)
-
 ---
 
 ## Let's Build Something Useful
