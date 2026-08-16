@@ -29,30 +29,6 @@ I'm continuing to deepen my knowledge of architecture, real-time systems, securi
 
 ---
 
-## Core Engineering Stack
-
-### Backend
-
-**C# · .NET · ASP.NET Core · ASP.NET MVC · Web API · Entity Framework Core · LINQ**
-
-### Data
-
-**SQL Server · Relational Database Design · Query Optimization · Performance Optimization**
-
-### Real-Time & Security
-
-**SignalR · JWT · Authentication · Authorization**
-
-### DevOps & Tools
-
-**Git · Docker · IIS · Postman · Swagger**
-
-### Cloud
-
-**Azure**
-
----
-
 ## Featured Projects
 
 ### Cricket League Bidding System
@@ -61,8 +37,6 @@ Real-time cricket auction platform supporting role-based bidding, player managem
 
 **Stack:** ASP.NET MVC · ASP.NET Core 8 · SignalR · Entity Framework · SQL Server
 
-[View Project](CRICKET_PROJECT_URL) · [Case Study](CASE_STUDY_URL)
-
 ---
 
 ### OmniCore
@@ -70,8 +44,6 @@ Real-time cricket auction platform supporting role-based bidding, player managem
 An evolving backend engineering project exploring production-oriented architecture, authentication, background processing, API design, and maintainable application structure.
 
 **Stack:** ASP.NET Core · Clean Architecture · Entity Framework Core · SQL Server
-
-[View Project](OMNICORE_URL)
 
 ---
 
