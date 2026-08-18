@@ -13,7 +13,7 @@ I build reliable backend systems, APIs, and database-driven applications using t
 
 **Backend Engineering · API Development · Production Systems · Real-Time Applications**
 
-[Portfolio](PORTFOLIO_URL) · [LinkedIn](LINKEDIN_URL) · [Email](mailto:EMAIL_ADDRESS)
+[Portfolio](https://rohan-r-raikar.github.io/Rohan-R-Raikar-Portfolio/) · [LinkedIn](https://www.linkedin.com/in/rohan-raikar-sde/) · [Email](mailto:rohanraikar7993@gmail.com)
 
 ---
 
